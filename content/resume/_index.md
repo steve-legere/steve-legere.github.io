@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+# title: "Resume"
 layout: "simple"
 ---
 **Cybersecurity Professional | Strategic Operations Leader**  
