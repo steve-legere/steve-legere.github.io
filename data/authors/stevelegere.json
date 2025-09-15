@@ -1,0 +1,10 @@
+{
+    "name": "Steve Legere",
+    "image" : "img/avatar.png",
+    "bio": "Technology Research Analyst",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/steve-legere" },
+        { "twitter": "https://twitter.com/damonpluto" },
+        { "github": "https://github.com/steve-legere" }
+    ]
+}

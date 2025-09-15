@@ -1,0 +1,21 @@
+# Hugo build output
+/public/
+
+# Hugo local server cache
+/resources/_gen/
+
+# Hugo build cache
+hugo_cache/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if you use npm/yarn with Blowfish)
+node_modules/
+package-lock.json
+yarn.lock
+
+# VS Code / IDE settings
+.vscode/
+.idea/

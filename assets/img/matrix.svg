@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1719 1144" preserveAspectRatio="xMidYMid" style="shape-rendering: auto; display: block; background: rgb(28, 28, 28);" width="1719" height="1144" xmlns:xlink="http://www.w3.org/1999/xlink"><g><defs>
+  <filter height="489.46" width="20.42" y="-10.21" x="-10.21" filterUnits="userSpaceOnUse" id="f-64digdqy0vo">
+    <feGaussianBlur result="blur1" stdDeviation="9.10"></feGaussianBlur>
+    <feMorphology result="dilate" in="SourceGraphic" radius="2.27" operator="dilate"></feMorphology>
+    <feComponentTransfer result="dark" in="dilate">
+    <feFuncR slope="0.33" type="linear"></feFuncR>
+    <feFuncG slope="0.33" type="linear"></feFuncG>
+    <feFuncB slope="0.33" type="linear"></feFuncB>
+    </feComponentTransfer>
+    <feGaussianBlur result="blur2" in="dark" stdDeviation="4.55"></feGaussianBlur>
+    <feMerge>
+      <feMergeNode in="blur1"></feMergeNode>
+      <feMergeNode in="blur2"></feMergeNode>
+      <feMergeNode in="SourceGraphic"></feMergeNode>
+    </feMerge>
+  </filter>
+</defs><path stroke-width="0.5" stroke="#1d1f20" d="M229.61 0L229.61 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ffffcb" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-5.37s" keyTimes="0;1" values="229.61 -489.46;229.61 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M295.91 0L295.91 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.01s" keyTimes="0;1" values="295.91 -489.46;295.91 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M362.22 0L362.22 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.54s" keyTimes="0;1" values="362.22 -489.46;362.22 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M428.52 0L428.52 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#fac090" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.71s" keyTimes="0;1" values="428.52 -489.46;428.52 1144" repeatCount="indefinite" dur="2.94s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M494.83 0L494.83 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#fac090" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-3.59s" keyTimes="0;1" values="494.83 -489.46;494.83 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M561.13 0L561.13 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ffffcb" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-3.92s" keyTimes="0;1" values="561.13 -489.46;561.13 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M627.44 0L627.44 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ff7c81" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.60s" keyTimes="0;1" values="627.44 -489.46;627.44 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M693.74 0L693.74 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#c0f6d2" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.94s" keyTimes="0;1" values="693.74 -489.46;693.74 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M760.04 0L760.04 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ff7c81" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-2.87s" keyTimes="0;1" values="760.04 -489.46;760.04 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M826.35 0L826.35 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.39s" keyTimes="0;1" values="826.35 -489.46;826.35 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M892.65 0L892.65 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.31s" keyTimes="0;1" values="892.65 -489.46;892.65 1144" repeatCount="indefinite" dur="2.94s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M958.96 0L958.96 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ff7c81" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0s" keyTimes="0;1" values="958.96 -489.46;958.96 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1025.26 0L1025.26 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.12s" keyTimes="0;1" values="1025.26 -489.46;1025.26 1144" repeatCount="indefinite" dur="2.94s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1091.57 0L1091.57 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.34s" keyTimes="0;1" values="1091.57 -489.46;1091.57 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1157.87 0L1157.87 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ff7c81" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.61s" keyTimes="0;1" values="1157.87 -489.46;1157.87 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1224.17 0L1224.17 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#c0f6d2" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.20s" keyTimes="0;1" values="1224.17 -489.46;1224.17 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1290.48 0L1290.48 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#ff7c81" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-3.87s" keyTimes="0;1" values="1290.48 -489.46;1290.48 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1356.78 0L1356.78 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#dae4bf" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-1.96s" keyTimes="0;1" values="1356.78 -489.46;1356.78 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1423.09 0L1423.09 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#c0f6d2" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.63s" keyTimes="0;1" values="1423.09 -489.46;1423.09 1144" repeatCount="indefinite" dur="1.96s" type="translate" attributeName="transform"></animateTransform>
+</path><path stroke-width="0.5" stroke="#1d1f20" d="M1489.39 0L1489.39 1144"></path>
+<path filter="url(#f-64digdqy0vo)" fill="#c0f6d2" d="M0 0L-1.11 469.04 A1.11 1.11 0 0 0 1.11 469.04 Z">
+<animateTransform begin="-0.87s" keyTimes="0;1" values="1489.39 -489.46;1489.39 1144" repeatCount="indefinite" dur="5.88s" type="translate" attributeName="transform"></animateTransform>
+</path><g></g></g><!-- [ldio] generated by https://loading.io --></svg>

@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Technology & Security"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo-transparent.png"
+  description = "My personal website for keeping track of my cyber journey."
+
+[params.author]
+  name = "Steve Legere"
+  image = "img/anime-avatar.png"
+  headline = "Technology Analyst @ OPC"
+  bio = "Technology Research Analyst"
+  links = [
+    { email = "mailto:6333526c646d56416158527a5a574d75596d78765a773d3d" },
+    { github = "https://github.com/steve-legere" },
+    { linkedin = "https://linkedin.com/in/steve-legere" }
+  ]
