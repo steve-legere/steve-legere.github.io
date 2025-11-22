@@ -106,6 +106,8 @@ I’m a cybersecurity enthusiast with over 16 years of experience in the field i
 - *2024 Top Performer (Top 33 of >7,000 competitors)*
 
 ### US National Cyber League
+- *Fall 2025: Ranked 3 / 454 in Team (Experienced Player Bracket)*
+- *Fall 2025: Ranked 37 / 620 in Solo (Experienced Player Bracket)*
 - *Fall 2024: Ranked 8 / 532 in Team (Experienced Player Bracket)*
 - *Fall 2024: Ranked 56 / 691 in Solo (Experienced Player Bracket)*
 - *Spring 2024: Ranked 63 / 526 in Solo (Experienced Player Bracket)*
