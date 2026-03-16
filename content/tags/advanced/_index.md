@@ -1,7 +1,10 @@
 ---
-title: Advanced
+title: Advanced-Tags
+description: Browse articles by topic.
 ---
 
-This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:
+Explore articles by topic. Tags group posts based on specific ideas, tools, and concepts discussed across the site.
 
-You can also use these content pages to define Hugo metadata like titles and descriptions that will be used for SEO and other purposes.
+As the blog grows, this page will become a quick way to jump directly to the subjects you're most interested in.
+
+You can also start with the latest article below.

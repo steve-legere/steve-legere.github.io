@@ -1,9 +1,8 @@
 ---
 title: Tags
+description: Browse articles by topic.
 ---
 
-Blowfish has full support for Hugo taxonomies and will adapt to any taxonomy set up. Taxonomy listings like this one also support custom content to be displayed above the list of terms.
+Explore articles by topic. Tags group posts based on specific ideas, tools, and concepts discussed across the site.
 
-This area could be used to add some extra descriptive text to each taxonomy. Check out the [advanced tag]({{< ref "advanced" >}}) below to see how to take this concept even further.
-
----
+As the blog grows, this page will become a quick way to jump directly to the subjects you're most interested in.
