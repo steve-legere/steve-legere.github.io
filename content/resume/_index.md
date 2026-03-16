@@ -7,7 +7,7 @@ layout: "simple"
 
 ## 📌 Overview
 
-I’m a cybersecurity enthusiast with over 16 years of experience in the field including work in federal investigations, managing 24/7 operations in high-stakes environments, and competing in cybersecurity challenges. My background as a Canadian Army officer has shaped my discipline, tact, and leadership style, which I’ve applied to complex projects and team management. I thrive in fast-paced, mission-critical roles and bring a unique mix of technical expertise and strategic thinking to every task.  
+I’m a cybersecurity enthusiast with over 17 years of experience in the field including work in federal investigations, managing 24/7 operations in high-stakes environments, and competing in cybersecurity challenges. My background as a Canadian Army officer has shaped my discipline, tact, and leadership style, which I’ve applied to complex projects and team management. I thrive in fast-paced, mission-critical roles and bring a unique mix of technical expertise and strategic thinking to every task.  
 
 ---
 
@@ -30,18 +30,19 @@ I’m a cybersecurity enthusiast with over 16 years of experience in the field i
 ---
 
 ## 🏆 Certifications  
-- **GSLC** (GIAC Security Leadership)  
-- **GCFE** (GIAC Certified Forensic Examiner)  
-- **GPYC** (GIAC Python Security Analyst)  
-- **GCIA** (GIAC Certified Intrusion Analyst)  
-- **GSTRT** (GIAC Strategic Planning, Policy, and Leadership)  
-- **GDSA** (GIAC Defensible Security Architecture)  
-- **GCIH** (GIAC Certified Incident Handler)  
-- **GSEC** (GIAC Security Essentials)  
+- **GAWN** (Assessing and Auditing Wireless Networks)
+- **GSLC** (Security Leadership)  
+- **GCFE** (Certified Forensic Examiner)  
+- **GPYC** (Python Security Analyst)  
+- **GCIA** (Certified Intrusion Analyst)  
+- **GSTRT** (Strategic Planning, Policy, and Leadership)  
+- **GDSA** (Defensible Security Architecture)  
+- **GCIH** (Certified Incident Handler)  
+- **GSEC** (Security Essentials)  
 
 ---
 
-### 🛡️ Defense
+### 🛡️ Defence
 - Security monitoring & intrusion detection (ELK, Snort, Suricata, Zeek)  
 - Incident response workflows: triage, containment, recovery  
 - Threat modeling, risk assessment, defense-in-depth, zero trust 
